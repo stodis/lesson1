@@ -7,3 +7,5 @@
 /lesson1-git.iml
 /.idea/vcs.xml
 /.idea/workspace.xml
+*.iml
+.idea
